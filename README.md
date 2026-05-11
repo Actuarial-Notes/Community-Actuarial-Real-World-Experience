@@ -18,6 +18,3 @@ The case study problem for CARE 2027 is [Flood Risk in Hamilton Ontario](https:/
 - City of Hamilton Open Data: https://open.hamilton.ca
 - Government of Canada Climate Data: https://climate.weather.gc.ca
 - Insurance Bureau of Canada: http://www.ibc.ca
-
-## Questions?
-- Contact support@actuarialnotes.com or get in touch with your local CARE team
