@@ -6,8 +6,8 @@ The case study problem for CARE 2027 is [Flood Risk in Hamilton Ontario](https:/
 ## Getting Started
 
 1. **Read the [Case Study Instructions](https://github.com/Actuarial-Notes/Community-Actuarial-Real-World-Experience/blob/main/Case%20Study%20Instructions.md)**.
-2. **Form Teams:** Interdisciplinary teams (actuaries, engineers, data scientists, GIS specialists) work best
-3. **Choose Your Focus:** Teams can tackle one part in depth or attempt an integrated solution
+2. **Form Teams:** Interdisciplinary teams (actuaries, engineers, data scientists, GIS specialists) work best.
+3. **Choose Your Focus:** Teams can tackle one part in depth or attempt an integrated solution.
 4. **Deliverables:** Prepare a presentation covering methodology, findings, and recommendations.
 
 ## Resources
